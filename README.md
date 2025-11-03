@@ -92,4 +92,3 @@ public/          → Static assets
 * [Turborepo](https://turbo.build)
 * [Lucide Icons](https://lucide.dev)
 
-Made with ❤️ by [Suraj Vishwakarma](https://twitter.com/surajv354)
